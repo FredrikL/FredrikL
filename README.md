@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello there 👋](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 <!--
 **FredrikL/FredrikL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
